@@ -27,7 +27,7 @@
 </div>
   
   ##
- 
+ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Add me and let's exchange ideas!</b></em> 🖤
 <div> 
   <a href = "mailto:rcardosopereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rcardosopereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -35,6 +35,10 @@
   ![Snake animation](https://github.com/rcardosopereira/rcardosopereira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+### 📕 &nbsp;Quality Assurance Community
+- [Agile Testers](https://agiletesters.github.io/)
+- [Ministry of Testing](https://www.ministryoftesting.com/)
 
 ### 📕 &nbsp;Learn about Git/GitHub
 
