@@ -1,6 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hi there, I´m Rafael C. Pereira 👨
 
-**I have been working as a QA since 2010 and I help to deliver bug-free software, working with manual and automated testings.**
+**I have been working as a QA since 2010 and I help to deliver bug-free software, working with manual and automated testings. 
+I am driven by sharing ideas, content, opinions, tips and experiences. I believe that only then will I feel complete and be able to evolve as a person and professional.**
 
 🌎 &nbsp; Brazilian, Based in Porto, Portugal and I love to spend my time travelling around the world. <br>
 💻 &nbsp; QA Engineer (Bachelor in computer science from ULBRA University and postgraduate in software quality from Unisinos University). <br>
@@ -27,12 +28,14 @@
 </div>
   
   ##
-  <div> 
- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Add me and let's exchange ideas!</b></em> 🖤
- </div> 
+  <br />
+
+ 
 <div> 
   <a href = "mailto:rcardosopereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rcardosopereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Add me and let's exchange ideas!</b></em> 🖤
  
   ![Snake animation](https://github.com/rcardosopereira/rcardosopereira/blob/output/github-contribution-grid-snake.svg)
  
