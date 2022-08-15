@@ -51,6 +51,8 @@
 - [Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [Dev Icon](https://devicon.dev/)
+- [How to create the snake in Github](https://www.instagram.com/p/CPjUBhXDNEE/)
+
 
 
 
