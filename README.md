@@ -60,20 +60,7 @@ I am driven by sharing ideas, content, opinions, tips and experiences. I believe
 - [Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [Dev Icon](https://devicon.dev/)
-- [How to create the snake in Github](<a href="https://www.instagram.com/p/CPjUBhXDNEE/" target="_blank" rel="noopener noreferrer">How to create the snake in Github</a>)
-
-
-<p>How to create the snake in Github <a href="https://www.instagram.com/p/CPjUBhXDNEE/" target="_blank" rel="noopener noreferrer">How to create the snake in Github</a>.</p>
-
-<p>Dev Icon <a href="https://devicon.dev/" target="_blank" rel="noopener noreferrer">Dev Icon</a>.</p>
-
-<p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
-
-<p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
-
-<a href="https://www.WordPress.com" target="_blank">WordPress Homepage</a>
-
-
+- [How to create the snake in Github](https://www.instagram.com/p/CPjUBhXDNEE/)
 
 
 
