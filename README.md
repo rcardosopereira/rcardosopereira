@@ -67,7 +67,7 @@ I am driven by sharing ideas, content, opinions, tips and experiences. I believe
 
 <p>Dev Icon <a href="https://devicon.dev/" target="_blank" rel="noopener noreferrer">Dev Icon</a>.</p>
 
-
+<p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
 
 
 
