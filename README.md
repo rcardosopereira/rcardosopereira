@@ -1,11 +1,16 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hi there, I´m Rafael C. Pereira 👨
+### Thanks for visiting my GitHub Profile!
 
-**I have been working as a QA since 2010 and I help to deliver bug-free software, working with manual and automated testings. 
-I am driven by sharing ideas, content, opinions, tips and experiences. I believe that only then will I feel complete and be able to evolve as a person and professional.**
+** I am a Test Automation Consultant. I like to learn new test automation tools & frameworks in the industry. I have been working as a QA since 2010 and I help to deliver bug-free software, working with manual and automated testings. I am driven by sharing ideas, content, opinions, tips and experiences. I believe that only then will I feel complete and be able to evolve as a person and professional.**
 
 🌎 &nbsp; Brazilian, Based in Porto, Portugal and I love to spend my time travelling around the world. <br>
 💻 &nbsp; QA Engineer (Bachelor in computer science from ULBRA University and postgraduate in software quality from Unisinos University). <br>
 🐶 &nbsp; I have and I like pets friendly. And my favorites sports are 🏊‍♂️🛹🏄‍♂️🥋. <br>
+⚡ &nbsp; Feel free to visit my repositories
+
+
+![](https://komarev.com/ghpvc/?username=rcardosopereira&color=green) ![GitHub followers](https://img.shields.io/github/followers/rcardosopereira?style=social) 
+
 
 <div align="center">
   <a href="https://github.com/rcardosopereira">
