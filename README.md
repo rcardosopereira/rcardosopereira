@@ -1,3 +1,17 @@
+
+<div align="center" >
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=310DF7&background=FFEF2C00&width=435&lines=Hello+world%2C+I+am+a+QA+Engineer.)](https://git.io/typing-svg)
+ 
+ </div>
+
+
+
+
+
+
+
+
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hi there, I´m Rafael C. Pereira 👨
 ### Thanks for visiting my GitHub Profile!
 
