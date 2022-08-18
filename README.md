@@ -49,6 +49,11 @@
 ### 📕 &nbsp;Quality Assurance Community
 - [Agile Testers](https://agiletesters.github.io/)
 - [Ministry of Testing](https://www.ministryoftesting.com/)
+- [Software Testing](https://softwaretesting.news/)
+- [Software Testing News UK](https://www.softwaretestingnews.co.uk/)
+
+
+
 
 ### 📕 &nbsp;Learn about Git/GitHub
 
