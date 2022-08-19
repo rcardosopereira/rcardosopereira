@@ -7,10 +7,6 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/rcardosopereira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-
-
-
-
 <div align="center" >
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=310DF7&background=FFEF2C00&width=435&lines=Hello+world%2C+I+am+a+QA+Engineer.)](https://git.io/typing-svg)
@@ -23,7 +19,7 @@
 **I am a Test Automation Consultant. I like to learn new test automation tools & frameworks in the industry. I have been working as a QA since 2010 and I help to deliver bug-free software, working with manual and automated testings. I am driven by sharing ideas, content, opinions, tips and experiences. I believe that only then will I feel complete and be able to evolve as a person and professional.**
 
 🌎 &nbsp; Brazilian, based in Porto, Portugal and I love to spend my time travelling around the world. <br>
-💻 &nbsp; QA Engineer (Bachelor in computer science from ULBRA University and postgraduate in software quality from Unisinos University). <br>
+💻 &nbsp; QA Engineer (Bachelor in computer science from Ulbra University and postgraduate in software quality from Unisinos University). <br>
 🐶 &nbsp; I have and I like pets friendly. And my favorites sports are 🏊‍♂️🛹🏄‍♂️🥋. <br>
 
 <details>
@@ -57,7 +53,7 @@
     <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 </p>
  
- ⚡<i><b> Tech Interest: </i></b><br>
+ ### ⚡<i><b> Tech Interest: </i></b><br>
  <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,java,cs,py,js,selenium,gherkin,maven,jenkins,docker,github,raspberrypi,stackoverflow" />
