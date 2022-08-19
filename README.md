@@ -1,3 +1,16 @@
+
+<p align="center">
+  
+  <a href="https://github.com/rcardosopereira?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/rcardosopereira?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/rcardosopereira?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/rcardosopereira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+
+
+
+
+
 <div align="center" >
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=310DF7&background=FFEF2C00&width=435&lines=Hello+world%2C+I+am+a+QA+Engineer.)](https://git.io/typing-svg)
@@ -35,6 +48,14 @@
 <br>
 <br>![](https://komarev.com/ghpvc/?username=rcardosopereira&color=green) ![GitHub followers](https://img.shields.io/github/followers/rcardosopereira?style=social) 
  
+ ### 👨‍💻 Programming languages
+
+<p>
+    <a href=""><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href=""><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+    <a href=""><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+</p>
  
  ⚡<i><b> Tech Interest: </i></b><br>
  <p align="left">
@@ -82,8 +103,6 @@
 - [How to create the snake in Github](https://www.instagram.com/p/CPjUBhXDNEE/)
 
 
-
-
 <!--
 **rcardosopereira/rcardosopereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -100,4 +119,7 @@ Here are some ideas to get you started:
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=rcardosopereira&show_icons=true&include_all_commits=true&count_private=true)
  ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rcardosopereira&layout=compact&langs_count=7)
+ Example:
+ 
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
 -->
