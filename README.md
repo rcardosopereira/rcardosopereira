@@ -14,10 +14,9 @@
 🌎 &nbsp; Brazilian, Based in Porto, Portugal and I love to spend my time travelling around the world. <br>
 💻 &nbsp; QA Engineer (Bachelor in computer science from ULBRA University and postgraduate in software quality from Unisinos University). <br>
 🐶 &nbsp; I have and I like pets friendly. And my favorites sports are 🏊‍♂️🛹🏄‍♂️🥋. <br>
-⚡ &nbsp; Feel free to visit my repositories
 
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>⚡ Github Stats: Feel free to visit my repositories.</summary>
  <div align="left">
   <a href="https://github.com/rcardosopereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rcardosopereira&theme=blueberry&include_all_commits=true&count_private=true"/>
@@ -25,28 +24,26 @@
 </div>
 </details>
 
-![](https://komarev.com/ghpvc/?username=rcardosopereira&color=green) ![GitHub followers](https://img.shields.io/github/followers/rcardosopereira?style=social) 
- 
- **Interests:**
+ ⚡ Tech Interest:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,java,cs,py,js,selenium,gherkin,maven,docker,jenkins,github,raspberrypi,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=idea,java,cs,py,js,selenium,gherkin,maven,jenkins,docker,github,raspberrypi,stackoverflow" />
   </a>
 </p>
-
 
 </div>
 <div style="display: inline_block"><br>
 <img align="right" alt="QA" height="150" style="border-radius:50px;" src="https://static.javatpoint.com/tutorial/quality-assurance/images/quality-assurance1.jpg">
   <img align="left" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="left" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="left" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-  <img align="left" alt="Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
   <img align="left" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="left" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="left" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="left" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
+  <img align="left" alt="Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
   <img align="left" alt="Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="left" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="left" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  
 </div>
   
   ##
@@ -58,6 +55,7 @@
   <a href="https://www.linkedin.com/in/rcardosopereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Add me and let's exchange ideas!</b></em> 💙
+  <br>![](https://komarev.com/ghpvc/?username=rcardosopereira&color=green) ![GitHub followers](https://img.shields.io/github/followers/rcardosopereira?style=social) 
  
   ![Snake animation](https://github.com/rcardosopereira/rcardosopereira/blob/output/github-contribution-grid-snake.svg)
  
@@ -68,9 +66,6 @@
 - [Ministry of Testing](https://www.ministryoftesting.com/)
 - [Software Testing](https://softwaretesting.news/)
 - [Software Testing News UK](https://www.softwaretestingnews.co.uk/)
-
-
-
 
 ### 📕 &nbsp;Learn about Git/GitHub
 
