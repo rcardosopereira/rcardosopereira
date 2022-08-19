@@ -6,12 +6,6 @@
  </div>
 
 
-
-
-
-
-
-
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hi there, I´m Rafael C. Pereira 👨
 ### Thanks for visiting my GitHub Profile!
 
@@ -22,28 +16,37 @@
 🐶 &nbsp; I have and I like pets friendly. And my favorites sports are 🏊‍♂️🛹🏄‍♂️🥋. <br>
 ⚡ &nbsp; Feel free to visit my repositories
 
+<details>
+  <summary>Github Stats ⚡</summary>
+ <div align="left">
+  <a href="https://github.com/rcardosopereira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rcardosopereira&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcardosopereira&theme=blueberry&layout=compact&langs_count=7"/>
+</div>
+</details>
 
 ![](https://komarev.com/ghpvc/?username=rcardosopereira&color=green) ![GitHub followers](https://img.shields.io/github/followers/rcardosopereira?style=social) 
+ 
+ **Interests:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,java,cs,py,js,selenium,gherkin,maven,docker,jenkins,github,raspberrypi,stackoverflow" />
+  </a>
+</p>
 
-
-<div align="center">
-  <a href="https://github.com/rcardosopereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rcardosopereira&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcardosopereira&layout=compact&langs_count=7"/>
-</div>
 
 </div>
 <div style="display: inline_block"><br>
 <img align="right" alt="QA" height="150" style="border-radius:50px;" src="https://static.javatpoint.com/tutorial/quality-assurance/images/quality-assurance1.jpg">
-  <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="left" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+  <img align="left" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="left" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
+  <img align="left" alt="Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
+  <img align="left" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="left" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="left" alt="Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+  <img align="left" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="left" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
   
   ##
