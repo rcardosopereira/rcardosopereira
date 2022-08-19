@@ -1,10 +1,8 @@
-
 <div align="center" >
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=310DF7&background=FFEF2C00&width=435&lines=Hello+world%2C+I+am+a+QA+Engineer.)](https://git.io/typing-svg)
- 
- </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=310DF7&background=FFEF2C00&width=435&lines=Hello+world%2C+I+am+a+QA+Engineer.)](https://git.io/typing-svg)
+
+ </div>
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hi there, I´m Rafael C. Pereira 👨
 ### Thanks for visiting my GitHub Profile!
@@ -24,18 +22,18 @@
 </div>
 </details>
 
- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
 <img align="right" alt="QA" height="150" style="border-radius:50px;" src="https://static.javatpoint.com/tutorial/quality-assurance/images/quality-assurance1.jpg">
 </div>
   
   ##
 <div> 
-  <a href = "mailto:rcardosopereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rcardosopereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:rcardosopereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rcardosopereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Add me and let's exchange ideas!</b></em> 💙
-  <br>
-  <br>![](https://komarev.com/ghpvc/?username=rcardosopereira&color=green) ![GitHub followers](https://img.shields.io/github/followers/rcardosopereira?style=social) 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Add me and let's exchange ideas!</b></em> 💙
+<br>
+<br>![](https://komarev.com/ghpvc/?username=rcardosopereira&color=green) ![GitHub followers](https://img.shields.io/github/followers/rcardosopereira?style=social) 
  
  
  ⚡<i><b> Tech Interest: </i></b><br>
@@ -57,7 +55,7 @@
   <img align="left" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
 </div>
  
-  ![Snake animation](https://github.com/rcardosopereira/rcardosopereira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rcardosopereira/rcardosopereira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
@@ -68,7 +66,6 @@
 - [Software Testing News UK](https://www.softwaretestingnews.co.uk/)
 
 ### 📕 &nbsp;Learn about Git/GitHub
-
 - [Sintaxe básica de escrita e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 - [Introduction to GitHub](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/)
@@ -77,7 +74,6 @@
 - [Structure your Git Repo](https://docs.microsoft.com/en-us/learn/modules/structure-your-git-repo/)
 
 ### 📕 &nbsp;Links
-
 - [Emojipedia](https://emojipedia.org/)
 - [Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
