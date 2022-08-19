@@ -118,6 +118,17 @@
 - [How to create the snake in Github](https://www.instagram.com/p/CPjUBhXDNEE/)
 
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rcardosopereira)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rcardosopereira)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rcardosopereira)  
+
+![GitHub metrics](https://metrics.lecoq.io/rcardosopereira)  
+
+![Profile views](https://gpvc.arturio.dev/rcardosopereira)  
+
 <!--
 **rcardosopereira/rcardosopereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
