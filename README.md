@@ -1,4 +1,5 @@
 
+
 <p align="center">
   
   <a href="https://github.com/rcardosopereira?tab=repositories&sort=stargazers">
@@ -128,6 +129,11 @@
 ![GitHub metrics](https://metrics.lecoq.io/rcardosopereira)  
 
 ![Profile views](https://gpvc.arturio.dev/rcardosopereira)  
+  
+  <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/rcardosopereira/count.svg" />
+</p>
 
 <!--
 **rcardosopereira/rcardosopereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
