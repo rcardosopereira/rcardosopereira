@@ -44,24 +44,24 @@
 <br>
 <br>![](https://komarev.com/ghpvc/?username=rcardosopereira&color=green) ![GitHub followers](https://img.shields.io/github/followers/rcardosopereira?style=social) 
  
- ### 👨‍💻 Programming languages
+ ### 👨‍💻 Programming languages and Tech Interest
 <p>
     <a href=""><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href=""><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
     <a href=""><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href=""><img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
-    <a href=""><img alt="CSS3" src="hhttps://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></a>
+    <a href=""><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></a>
 </p>
  
- ### ⚡<i><b> Tech Interest </i></b><br>
+
  <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,java,cs,py,js,selenium,gherkin,maven,jenkins,docker,github,raspberrypi,stackoverflow" />
   </a>
 </p>
 
- <div style="display: inline_block"><br>
+ <div style="display: inline_block">
   <img align="left" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="left" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="left" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
