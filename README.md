@@ -11,7 +11,7 @@
 
 **I am a Test Automation Consultant. I like to learn new test automation tools & frameworks in the industry. I have been working as a QA since 2010 and I help to deliver bug-free software, working with manual and automated testings. I am driven by sharing ideas, content, opinions, tips and experiences. I believe that only then will I feel complete and be able to evolve as a person and professional.**
 
-🌎 &nbsp; Brazilian, Based in Porto, Portugal and I love to spend my time travelling around the world. <br>
+🌎 &nbsp; Brazilian, based in Porto, Portugal and I love to spend my time travelling around the world. <br>
 💻 &nbsp; QA Engineer (Bachelor in computer science from ULBRA University and postgraduate in software quality from Unisinos University). <br>
 🐶 &nbsp; I have and I like pets friendly. And my favorites sports are 🏊‍♂️🛹🏄‍♂️🥋. <br>
 
@@ -82,6 +82,7 @@
 - [Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [Dev Icon](https://devicon.dev/)
+- [Skill Icons](https://skillicons.dev/)
 - [How to create the snake in Github](https://www.instagram.com/p/CPjUBhXDNEE/)
 
 
