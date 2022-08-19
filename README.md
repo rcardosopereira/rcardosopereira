@@ -24,16 +24,28 @@
 </div>
 </details>
 
-⚡<i><b> Tech Interest: </i></b><br>
+ <div style="display: inline_block"><br>
+<img align="right" alt="QA" height="150" style="border-radius:50px;" src="https://static.javatpoint.com/tutorial/quality-assurance/images/quality-assurance1.jpg">
+</div>
+  
+  ##
+<div> 
+  <a href = "mailto:rcardosopereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rcardosopereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Add me and let's exchange ideas!</b></em> 💙
+  <br>
+  <br>![](https://komarev.com/ghpvc/?username=rcardosopereira&color=green) ![GitHub followers](https://img.shields.io/github/followers/rcardosopereira?style=social) 
  
-<p align="left">
+ 
+ ⚡<i><b> Tech Interest: </i></b><br>
+ <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,java,cs,py,js,selenium,gherkin,maven,jenkins,docker,github,raspberrypi,stackoverflow" />
   </a>
 </p>
 
  <div style="display: inline_block"><br>
-<img align="right" alt="QA" height="150" style="border-radius:50px;" src="https://static.javatpoint.com/tutorial/quality-assurance/images/quality-assurance1.jpg">
   <img align="left" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="left" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="left" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
@@ -44,18 +56,6 @@
   <img align="left" alt="Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="left" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
 </div>
-  
-  ##
-  <br />
-
- 
-<div> 
-  <a href = "mailto:rcardosopereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rcardosopereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Add me and let's exchange ideas!</b></em> 💙
-  <br>
-  <br>![](https://komarev.com/ghpvc/?username=rcardosopereira&color=green) ![GitHub followers](https://img.shields.io/github/followers/rcardosopereira?style=social) 
  
   ![Snake animation](https://github.com/rcardosopereira/rcardosopereira/blob/output/github-contribution-grid-snake.svg)
  
