@@ -111,11 +111,11 @@
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [Dev Icon](https://devicon.dev/)
 - [Skill Icons](https://skillicons.dev/)
- -[GitHub Profile Readme Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/)
- -[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
- -[10 Standout GitHub Profile READMEs](https://dev.to/github/10-standout-github-profile-readmes-h2o)
- -[How to create the snake in Github](https://www.instagram.com/p/CPjUBhXDNEE/)
- -[Awesome GitHub](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [GitHub Profile Readme Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/)
+- [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [10 Standout GitHub Profile READMEs](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [How to create the snake in Github](https://www.instagram.com/p/CPjUBhXDNEE/)
+- [Awesome GitHub](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
 
 
