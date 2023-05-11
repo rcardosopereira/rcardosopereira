@@ -129,10 +129,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/rcardosopereira)  
   
-  <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rcardosopereira/count.svg" />
-</p>
+<p align="center"> Visitor count<br><img src="https://profile-counter.glitch.me/rcardosopereira/count.svg" /></p>
 
 <!--
 **rcardosopereira/rcardosopereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
