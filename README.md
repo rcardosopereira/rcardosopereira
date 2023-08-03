@@ -123,15 +123,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rcardosopereira)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rcardosopereira)  
--->
+
 
 ![GitHub metrics](https://metrics.lecoq.io/rcardosopereira)  
 
-
+<!--
 ![Profile views](https://gpvc.arturio.dev/rcardosopereira)  
- 
+ -->
  
 <p align="center"> Visitor count<br><img src="https://profile-counter.glitch.me/rcardosopereira/count.svg" /></p>
 
