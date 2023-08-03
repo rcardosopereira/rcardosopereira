@@ -126,9 +126,8 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/rcardosopereira)  
 
-<!--
 ![Profile views](https://gpvc.arturio.dev/rcardosopereira)  
- -->
+ 
  
 <p align="center"> Visitor count<br><img src="https://profile-counter.glitch.me/rcardosopereira/count.svg" /></p>
 
