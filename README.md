@@ -120,12 +120,9 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rcardosopereira)  
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=rcardosopereira)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rcardosopereira)  
--->
 
 ![GitHub metrics](https://metrics.lecoq.io/rcardosopereira)  
 
