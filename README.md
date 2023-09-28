@@ -9,8 +9,10 @@ Across diverse sectors, including finance, banking, healthcare, technology, avia
 In summary, I offer a decade of expertise, an unwavering commitment to excellence, and a proven track record in enhancing the dependability and success of software systems.*
 
 
-**🌎 ->Brazilian, based in Porto, Portugal and I love to spend my time travelling around the world.
-💻 ->QA Software Engineer (Bachelor in Computer Science from Ulbra University and Postgraduate in Software Quality from Unisinos University). **
+**
+🌎 ->Brazilian, based in Porto, Portugal and I love to spend my time travelling around the world.
+💻 ->QA Software Engineer (Bachelor in Computer Science from Ulbra University and Postgraduate in Software Quality from Unisinos University). 
+**
 <br>
 
 ⚡ Github Stats:
