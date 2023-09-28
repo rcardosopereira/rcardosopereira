@@ -23,6 +23,8 @@ In summary, I offer a decade of expertise, an unwavering commitment to excellenc
 ======================================================================
 ### 📧 Feel free to contact me here:
 <a href = "mailto:rcardosopereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/rcardosopereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+[Resume: PDF](https://github.com/rcardosopereira/rcardosopereira/blob/main/RAFAEL%20CARDOSO%20PEREIRA_QA_ENG.pdf) 
 <br>
 
 ======================================================================
@@ -72,8 +74,4 @@ In summary, I offer a decade of expertise, an unwavering commitment to excellenc
 - [Awesome GitHub](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
 ======================================================================
-
-
-
-
 ![GitHub metrics](https://metrics.lecoq.io/rcardosopereira)  
