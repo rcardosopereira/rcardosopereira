@@ -70,6 +70,7 @@ In summary, I offer a decade of expertise, an unwavering commitment to excellenc
 - [10 Standout GitHub Profile READMEs](https://dev.to/github/10-standout-github-profile-readmes-h2o)
 - [How to create the snake in Github](https://www.instagram.com/p/CPjUBhXDNEE/)
 - [Awesome GitHub](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [Git Dev Online](https://github.dev/github/dev)
 
 ======================================================================
 ![GitHub metrics](https://metrics.lecoq.io/rcardosopereira)  
