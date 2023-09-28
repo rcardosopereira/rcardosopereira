@@ -16,8 +16,7 @@ In summary, I offer a decade of expertise, an unwavering commitment to excellenc
 
 
 ### ⚡ Github Stats:
-  
-  <a href="https://github.com/rcardosopereira">
+   <a href="https://github.com/rcardosopereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rcardosopereira&theme=blueberry&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcardosopereira&theme=blueberry&layout=compact&langs_count=7"/> </a>
 
 ======================================================================
