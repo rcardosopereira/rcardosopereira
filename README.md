@@ -26,7 +26,7 @@ In summary, I offer a decade of expertise, an unwavering commitment to excellenc
 
 [Resume: PDF](https://github.com/rcardosopereira/rcardosopereira/blob/main/RAFAEL%20CARDOSO%20PEREIRA_QA_ENG.pdf) 
 
-<be>
+<br>
 
 <a href="https://github.com/rcardosopereira/rcardosopereira/blob/main/RAFAEL%20CARDOSO%20PEREIRA_QA_ENG.pdf" target="_blank">Resume: PDF new</a>
 
