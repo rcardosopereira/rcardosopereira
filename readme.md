@@ -1,6 +1,6 @@
 
 
-##  Hi there, I´m Rafael Pereira 👨
+##  Hi there, I´m Rafael Pereira (Software Test Engineer).👨
 ### Thanks for visiting my GitHub Profile!
 
 *<p align="justify">
