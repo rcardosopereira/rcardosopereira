@@ -3,6 +3,10 @@
 
 <p align="center">
   
+  <div style="display: inline_block"><br>
+<img align="center" alt="QA" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbe7_yAtrT6KYT151_JQ56tKfE0HoFt3X13w&usqp=CAU">
+</div>
+  
   <a href="https://github.com/rcardosopereira?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/rcardosopereira?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/rcardosopereira?tab=followers">
@@ -33,9 +37,7 @@
 </div>
 </details>
 
-<div style="display: inline_block"><br>
-<img align="right" alt="QA" height="150" style="border-radius:50px;" src="https://static.javatpoint.com/tutorial/quality-assurance/images/quality-assurance1.jpg">
-</div>
+
   
   ##
 <div> 
@@ -49,11 +51,9 @@
  ### 👨‍💻 Programming languages and Tech Interest
 <p>
     <a href=""><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+	    <a href=""><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href=""><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href=""><img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
-    <a href=""><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></a>
  </p>
  
 <p align="left"> 
@@ -88,17 +88,17 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 
-![Snake animation](https://github.com/rcardosopereira/rcardosopereira/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+============================================================
 
-### 📕 &nbsp;Quality Assurance Community
+## :tw-1f60e: Interesting Links
+
+### 📕 Quality Assurance Community
 - [Agile Testers](https://agiletesters.github.io/)
 - [Ministry of Testing](https://www.ministryoftesting.com/)
 - [Software Testing](https://softwaretesting.news/)
 - [Software Testing News UK](https://www.softwaretestingnews.co.uk/)
 
-### 📕 &nbsp;Learn about Git/GitHub
+### 📕 Learn about Git/GitHub
 - [Sintaxe básica de escrita e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 - [Introduction to GitHub](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/)
@@ -106,7 +106,7 @@
 - [Manage Git repositories](https://docs.microsoft.com/en-us/learn/modules/manage-git-repositories/)
 - [Structure your Git Repo](https://docs.microsoft.com/en-us/learn/modules/structure-your-git-repo/)
 
-### 📕 &nbsp;Links
+### 📕 Links
 - [Emojipedia](https://emojipedia.org/)
 - [Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
@@ -118,23 +118,14 @@
 - [How to create the snake in Github](https://www.instagram.com/p/CPjUBhXDNEE/)
 - [Awesome GitHub](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
-<div>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rcardosopereira)  
+============================================================
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rcardosopereira)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rcardosopereira)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/rcardosopereira)  
 
-![Profile views](https://gpvc.arturio.dev/rcardosopereira)  
- 
-![Snake animation](https://github.com/rcardosopereira/rcardosopereira/blob/output/github-contribution-grid-snake.svg)
 
-  <div>
-<p align="center"> Visitor count<br><img src="https://profile-counter.glitch.me/rcardosopereira/count.svg" /></p>
-</div>
-</div>
 
 <!--
 **rcardosopereira/rcardosopereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
